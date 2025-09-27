@@ -12,8 +12,7 @@ public class DemoApplication {
 		String st="Hello";
 
         int x=10;
-
-        System.out.println("Hii... Akshay Akshay");
+System.out.println("Hii... Akshay Akshay");
         SpringApplication.run(DemoApplication.class, args);
 	}
 
